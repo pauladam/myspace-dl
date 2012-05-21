@@ -2,6 +2,11 @@
 
 A hack to rip myspace audio
 
+#### Usage
+
+$ ./tracks.rb <myspace account name>
+ex. $ ./tracks.rb darkcastlemetal
+
 #### Deps
 
 Like about a million things, Ill be amazed if you're able to recreate the
