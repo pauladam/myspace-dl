@@ -4,8 +4,8 @@ A hack to rip myspace audio
 
 #### Usage
 
-$ ./tracks.rb <myspace account name>
-ex. $ ./tracks.rb darkcastlemetal
+$ ./tracks.rb <myspace account name>  
+ex. $ ./tracks.rb darkcastlemetal  
 
 #### Deps
 
